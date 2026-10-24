@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سمارٹ اسٹڈی</string>
+    <string name="tagline">تعلیمی کوئز اور تیاری ایپ</string>
+    <string name="subject_math">ریاضی</string>
+    <string name="subject_english">انگریزی</string>
+    <string name="subject_gk">معلوماتِ عامہ</string>
+    <string name="subject_pakstudy">مطالعہ پاکستان</string>
+    <string name="subject_islamiyat">اسلامیات</string>
+</resources>
